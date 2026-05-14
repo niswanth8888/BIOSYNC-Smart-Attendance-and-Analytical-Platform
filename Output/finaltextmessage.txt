@@ -1,0 +1,373 @@
+📢 Attendance Report - 01-04-2026
+📁 (attendance_combined.xlsx)
+
+📚 Department: Department I AIML A
+✅ Present: 53
+❌ Not Present (9): Athithya AT UL, Dharun P, Dheepika K, Divya Prakash K, Festus Nelofer K, Jeevan S, Kanika M, Manoj R G, Mohamed Rafi A
+
+📚 Department: Department I AIML B
+✅ Present: 60
+❌ Not Present (4): Muthuselvan M, Srivishnu K, Vinusri C, Yathish chand reddy P
+
+📚 Department: Department II AIML A
+✅ Present: 57
+❌ Not Present (4): ARCHANA T S, JEEVIKA B, KARTHIKEYAN S, MADHAN B
+
+📚 Department: Department II AIML B
+✅ Present: 59
+❌ Not Present (5): PREMNATH U, RANJITH T, SABARISH S, THARUNIKA P, YASWANTH V
+
+📚 Department: Department III AIML
+✅ Present: 51
+❌ Not Present (10): GOPIKA S, KARTHIKEYAN S, MATHIVATHANI T, PONSIGASRI S, RANITHAA K R, RENU SRI J, SAM BRAINALD C, SUGANTH S S, SUNDARA BALA M, YUGAL YUVARAJ
+
+📚 Department: Department I CSE A
+✅ Present: 53
+❌ Not Present (10): Baranidharan N, Bhagavathi N, Farhin salma J, Gowtham R, Hari Prasath K, Hariharan S, Harish G S, Heban C T, Hemanth kumar M, Jeevanandh B
+
+📚 Department: Department I CSE B
+✅ Present: 58
+❌ Not Present (5): Kamalesh M, Krishikashree M, Prageetha S, Prathiksha K, Priyavarshini V
+
+📚 Department: Department I CSE C
+✅ Present: 57
+❌ Not Present (6): Rohith  S, Santhosh balaji N, Sasmitha S, Sathya M, Sivashni S, Tharun prasath S
+
+📚 Department: Department I CSBS
+✅ Present: 59
+❌ Not Present (4): Muthupandi K, Nishanthini P K, Sivasubramani N, Sri Sharanya M
+
+📚 Department: Department I IT A
+✅ Present: 55
+❌ Not Present (8): ABISHAKE V, DEVI G, DHAYANITHI M, FLOW JOURNET N, GOWTHAMKUMAR R, HARIHARASUDHAN P, HEMAPRIYA K, JAFFIN M J
+
+📚 Department: Department I IT B
+✅ Present: 61
+❌ Not Present (2): NAVEEN KARTHICK S, PARTHASARATHI R
+
+📚 Department: Department I IT C
+✅ Present: 61
+❌ Not Present (2): SOWBARANICA R, VISHALINI S
+
+📚 Department: Department II IT A
+✅ Present: 54
+❌ Not Present (9): ABISHEK S, ADHITHYA N, BHAVANI M, DHANUSHREE L, DHARSAN S, DIVYA DHARSHINI A, FRAGI BENEDICT S, GOWTHAM N, JARVIS DENY A
+
+📚 Department: Department II IT B
+✅ Present: 58
+❌ Not Present (2): KIRUBA SRI J, KUMARAN.S
+
+📚 Department: Department II IT C
+✅ Present: 55
+❌ Not Present (6): RANJANI DEVI R, SANJEEVANI M M, SWATHI R, THARANEESH D, THIRUVASAGAM V, YAMUNA E
+
+📚 Department: Department III IT A
+✅ Present: 59
+❌ Not Present (3): ABINESHVISHNU S, AJAY B, ATHINARAYANAN T.M
+
+📚 Department: Department III IT B
+✅ Present: 55
+❌ Not Present (5): JOTHI RAMALINGAM, KAVIYARASU V, MATHANKUMAR M, NAVEEN KUMAR A, PONRAJ D
+
+📚 Department: Department III IT C
+✅ Present: 63
+❌ Not Present (0): None
+
+📚 Department: Department IV IT A
+✅ Present: 28
+❌ Not Present (33): ABDUL SAMAD V B, AJAYCHANDHRA S, AKASH K, AKASH V, ALOSIUS A, ANITHA S, ARUNTHATHY S, BALAMURUGAN R, BOOPATHI D, COLIN BRIGHT K, DEEPTHI KUMAR M, DEVADARSHAN B G, DEVAKI S, DHANUSH R, DHANUSH R (06.01.2005), DHANUSHREE K, DHARAN D, DHAYANITHI A, DINESH KUMAR S, GIRI PRASATH V M, GIRIVASAN P V, GOBISHKANNA S, GOKILASELVI G, GOWTHAM M, HARI BALA VISHAL S T, HARIPRASATH S, HARISUDHAN S, HARSHINI S, HEMA PRASANTH R, IRAIANBU S, GUNASELAN S K, HARI HARA SUDHAN S, ARULMANI S
+
+📚 Department: Department IV IT B
+✅ Present: 41
+❌ Not Present (18): JAMUNA P, JANANI .D, JEBASELVAN L, KAVIN S, KAVIYA K, KIRUTHIKA M, KISHORE R, KISHORE R (02.12.2005), LIVYA D, MAHASREE SS, MATHAN T, MONISH N, MUTHUPRIYA M, NIRMAL P, PADMALOSANI V, PRANESH A, PUTHIRA T, JOTHI MANIKANDAN
+
+📚 Department: Department IV IT C
+✅ Present: 45
+❌ Not Present (17): RITHIKA N, SABARI KARTHIK S, SAM ARLIN JEFFRY H, SARATH J, SARAVANAKUMAR S, SELVA GANESH V, SIVASUBRAMANI V, SRIHARIRAMAKRISHN A L, SRINITHI V, THENMOZHI P, VIGNESH J, VIGNESHWARAN S, VIJAY P, VIJAYAVARSHINI J, VINITH M, VINOTH KUMAR M P, VINOTHINI K
+
+📚 Department: Department II CSE A
+✅ Present: 49
+❌ Not Present (13): ARADHANA A, ARUN KUMAR G, BALAVIGNESH K, BHAVAN KRISHNA S, CHANDRU R, DEEPAK P M, DHARANIDHARAN C, DHAYANITHI K, DINESH KARTHICK R, HARI HARAN V, JEEVANANTHAM R, JEEVITHA A, KALAIMANI S
+
+📚 Department: Department II CSE B
+✅ Present: 60
+❌ Not Present (6): KAVIYA K, MAHENDRAN S, MOHAMED SAMEER M, MUKESH B M, NARESHKUMAR A, NIVASH S
+
+📚 Department: Department II CSE C
+✅ Present: 62
+❌ Not Present (4): RANJITH K, SANJAY SRINIVAS S, SANTHOSHKUMAR M, VINITH S
+
+📚 Department: Department II CSBS
+✅ Present: 53
+❌ Not Present (10): ANKUDHINESH D, DHIVAKAR V, KAVIDHARSHINI C R, MAHALAKSHMI M, NISHANTH S, PRAKALYA K S, RAJESH M, SAREKA SREE S, SIDDHARTH R K, VISHWA S
+
+📚 Department: Department III CSE A
+✅ Present: 62
+❌ Not Present (2): ANBU SELVAN M, DHIVYABHARATHI N
+
+📚 Department: Department III CSE B
+✅ Present: 60
+❌ Not Present (3): JEYA KUMAR D, KABILESH K, NAGA MONISH KUMAR I
+
+📚 Department: Department III CSE C
+✅ Present: 64
+❌ Not Present (2): SATHIYA PRAKASH G, THIRUMURUGAN T
+
+📚 Department: Department III CSBS
+✅ Present: 55
+❌ Not Present (4): AARTHISHREE S, DHAYANITHI G, GIRIPRASATH S, JEYAHARINI T
+
+📚 Department: Department IV CSE A
+✅ Present: 42
+❌ Not Present (18): ABDUL KADER JAILANI P R, ABHISHEK SINGH J, ABISRI S, ABOORVA S, ADHITHYA A, AJITH N, AMEESHA FAREEN N, AUSUNTHA MARIA R, BALASOWMIYA D, DHARANEESH S, DHARSHINI S, DHIVYA S, EBIN A, ENIYA S, HARI PRASATH S, HARISH J, INIYAN A, VIGNESH K V
+
+📚 Department: Department IV CSE B
+✅ Present: 38
+❌ Not Present (18): JAMIE ALLEN E, KARTHIKA M, KIRANMOORTHY K, KOOTHAPERUMAL S, MAGIBALAN S, MALINI P, MANEESWARAN A, MANIKANDAN R, MANIVEL K, MANOJKUMAR S, MANORANJANI S, MEGHA V A, MOHAMED SHAHEEL, MONISH G V, NAVEEN V, R NISHAJ AHMED BABU, ARUNKUMAR V, ASHVIN A
+
+📚 Department: Department IV CSE C
+✅ Present: 38
+❌ Not Present (20): PADMAHARISH AKSHAYARAM S, PARANTHAMA K S, PRABHASREE P, PRAVEEN R, PRIYADARSHINI G, RANCHANADEVI S, SAKTHI SANJAI R M, SANJEVI P, SANMATHI V P, SANTHANA VIGNESH K, SANTHOSH KUMAR S, SATHANA T, SATHISH A, SHANMUGAPRIYA T, SIVITHA G, SUBASH M, SUDHARSAN K, SUDHARSANA B, VISHNUVARATHAN J, YASWANTH S
+
+📚 Department: Department IV CSBS
+✅ Present: 36
+❌ Not Present (15): Ajai M, Balasurya K, Bharani Lakshmi B, Gurubharathi J, Harini M, Jaya Surya S, Kailash Pandian S, Kavisri S, Logeshwaran S, Manimozhi S, Matheshwar S, Rakul N, Rithvin M, Sajeetha S, Santhosh KLS
+
+📚 Department: Department I MECH
+✅ Present: 60
+❌ Not Present (2): Deepan E, Gokul S
+
+📚 Department: Department II MECH
+✅ Present: 64
+❌ Not Present (3): MEGANATHAN.S, SANTHOSH KUMAR S, SITHESH S
+
+📚 Department: Department III MECH
+✅ Present: 50
+❌ Not Present (8): Aadhish M, Adwaith K V, Alexander S, Dhineshkumar P, Roshin R S, Sakthivel K, Sree Hari S, Vikash K
+
+📚 Department: Department IV MECH
+✅ Present: 35
+❌ Not Present (45): Ajay.S, Arishkumar. R, Arul.A, Arun Kumar.P, BhavanKumar.R, Boopesh.P, Brusothaman.P, Eswara Balaji. V, Gokulakrishnan.C, Guruprasath.S, Harini Sri.S, Hariprasad.R.S, Ilakkiya.N, Jeyaprakash.s, Kavika.M, Kishore.J, Maha Kavin.E, Manikanadan.M, Mavulishwaran.M, Mohamed Muhaideen Rajiq. S, Mohanraj  M, Mugil varman.C, Nishanth.V, Pavan Prashanth.M, Poovendhiran.G, Priyadharshan.S, Rejin Jose.R, Ramanujam.K, Samkumar.R, Sankara Boopathy.M, Santhosh Kumar. B, Sivasurya.K, Sri Nithish. S.P, Srimathi.T, Sudersan.C, Surendhar.R, Syed Ibrahim.S, Vishwa Bharathi. U, Viswa.C, DHAAMESH R, NAGENTHIRAN M, NANDHA BAALAN G, NITHISKUMAR K, SHEIK MOHAMED .S, SURYA R
+
+📚 Department: Department I CIVIL
+✅ Present: 28
+❌ Not Present (3): AVINAASH J, PRIYADHARSHINI D C, BH25103013
+
+📚 Department: Department II CIVIL
+✅ Present: 28
+❌ Not Present (1): SOUNDHARYA K
+
+📚 Department: Department III CIVIL
+✅ Present: 14
+❌ Not Present (0): None
+
+📚 Department: Department IV CIVIL
+✅ Present: 5
+❌ Not Present (13): DEEPIKA S, DURAI PANDI M, HARISH K, ILANTHAMILAN D, KANISHKA V, KESAVAN V, MURUGANANTHAM T, PRATHISHA P, RAGUL K, SARAN RAJ K S, SHRI PRAKASH G, ARJUN S, RAJKUMAR P
+
+📚 Department: Department I EEE
+✅ Present: 56
+❌ Not Present (7): Aatharshen P J, Krishna Prasad A S, Naarayanan M V, Ragavel A, Rakshitha S, Sipitharan S, Sudhashni Manashaa S
+
+📚 Department: Department II EEE
+✅ Present: 62
+❌ Not Present (7): HARIHARAN M, MOWLISANKAR E, SARAN RAJ S, SARVESHWARAN M, SRIDHARSHAN S, VIJAY S, AKSHITA
+
+📚 Department: Department III EEE
+✅ Present: 57
+❌ Not Present (4): BARATH S, GOWSIKAN P, VARSHINI K, YOHIDA T
+
+📚 Department: Department IV EEE
+✅ Present: 39
+❌ Not Present (11): BRINDHA G, DHARUN KUMAR S, MADHUMITHA K, NANDHAKUMAR M, PREM ANANDH R, RACHANA J N, SHALINI J, SILVESTER JEROM S, VANJI NAYAKI V, VISHNU KUMAR C, PRATHISHA S
+
+📚 Department: Department I CCE
+✅ Present: 57
+❌ Not Present (6): DHARUNESH D, FAZIL B, JAYANTHKUMAR K, SHARUNIKA K, SIBIKA T, SIVAGANGAI M
+
+📚 Department: Department II CCE
+✅ Present: 58
+❌ Not Present (4): AAKASH M, ANUSAN S, DHANUPRITHIKA M R, SUBHASHINI V
+
+📚 Department: Department III CCE
+✅ Present: 58
+❌ Not Present (3): DHANU SHREE S R, PRIYADHARSHINI J, VINUSHA V
+
+📚 Department: Department IV CCE
+✅ Present: 14
+❌ Not Present (12): DAKSHINAMOORTHY M, KANISHKA S, MEGHAA S J, NANDHA KISHORE A, RAJKAMAL N, SEZHIYAN M, SUBAMAJARI K, SUKISIVAM B, SWETHA C, VEDHESH S, VINOTHA M, VISHAL R
+
+📚 Department: Department I BIOTECH
+✅ Present: 27
+❌ Not Present (4): Dharanshith DA, Jothimani P, Kavinkarthik M, Logesh S
+
+📚 Department: Department II BIOTECH
+✅ Present: 28
+❌ Not Present (3): AKMAL IBRAHIM M, DEEPAK P, SANTHARUKAN S
+
+📚 Department: Department III BIOTECH
+✅ Present: 48
+❌ Not Present (5): Gowri C, Karunya R, Seshathri D, Shenthilvel K V K, Sreelaya D P
+
+📚 Department: Department IV BIOTECH
+✅ Present: 28
+❌ Not Present (23): Deepana M, Deepika R, dharani R, Dhanasri S, Dharanika A, Gobika B, Infant Androse M, Jayaprakash P, Kanchana V, Kanimozhi R S, Kanishka K, Kaviya V, Keerthiga G, Kishorethana G, Padmavathi A, Pathi R, Pradipa R, Sakthi Maheswari K, Senthil Velan N, Shri Dharshini S, Sujith Kumar S, Swetha P, Veeraprathapan L
+
+📚 Department: Department I BME
+✅ Present: 25
+❌ Not Present (4): GANGA S, KAVIYARASU S, PARKAVI G, SRI HARINI P
+
+📚 Department: Department II BME
+✅ Present: 27
+❌ Not Present (2): DARSILIN S, KANCHANA K
+
+📚 Department: Department III BME
+✅ Present: 57
+❌ Not Present (4): Ancil L M, Anof  X, Dhivyadharshini M, Srianand S
+
+📚 Department: Department IV BME
+✅ Present: 19
+❌ Not Present (35): AALISHABANU H, AKSHAYA DEVI S G, ANISHA R, ASWIN N, BALAJI G, BALASUBRAMANI V, BHARATHI P, BHAWYA DHARSINI T L, BHUVANESHWARI M, BOOMANI R, CHANDRU K, DEEPIKA K, DHANUSH KUMAR T, DHANUSRI A, DHARMA K, DIVYASRI B, DIWAKAR K, DURGANANDHINI, GAYATHRI P, HARINI G, INIYAVAN V, KAVIYA M, KEERTHANA R, NAGENTHIRAN B P, NITHISH C, OOSHNARA ROSHINI M, PRAVEEN K K, PRAVEEN KUMAR J, SIVANESHWARI R, SRIPRIYA P, SUJITHA S, VARSHINI S, YOGESH S, YOGESHWARAN S, ARJUN RAJA M
+
+📚 Department: Department I CHEMICAL
+✅ Present: 19
+❌ Not Present (5): Blessy Y, Gayathri N, Helen Christy E, Vaishnavi T, Vetri selvam E
+
+📚 Department: Department II CHEMICAL
+✅ Present: 31
+❌ Not Present (2): KIRUTHICK D, SHABIYON RAJ P
+
+📚 Department: Department III CHEMICAL
+✅ Present: 22
+❌ Not Present (0): None
+
+📚 Department: Department IV CHEMICAL
+✅ Present: 12
+❌ Not Present (7): AATHIRIYA R, ABINAYA S, KARTHIKEYAN V, MOHAMED YAASEEN S, RAGUNATH A, RAMAKRISHNAN R, SARANYA P
+
+📚 Department: Department I AIDS A
+✅ Present: 57
+❌ Not Present (7): ADITHYAN S, AKASH S, BALAJI S, BHARATH M, CHRISTWINBLESSO R, DINAKARAN R, DIVINA INFANCY S
+
+📚 Department: Department I AIDS B
+✅ Present: 59
+❌ Not Present (5): KESHAV KARTHIKEYAN M, KUNGUMA SARAN K, LIJU S, MALINI M, MANIKANDAN M
+
+📚 Department: Department I AIDS C
+✅ Present: 57
+❌ Not Present (3): NAVANITH K, NAVEEN KUMAR G, NIKITHA N
+
+📚 Department: Department I AIDS D
+✅ Present: 55
+❌ Not Present (9): SHANMUGA SUNDARAM B, SHARVESH S E, SRI HARISHKUMAR T, SRIYASHWANTHIKA R, SUSMITHA S, TAMILARASAN M, THANISWAR N, THANUSHREE S, VISHAL J
+
+📚 Department: Department II AIDS A
+✅ Present: 60
+❌ Not Present (5): ABISHECK S, ABISHEK K, DHARANI J, DHEENA D, HARSHITHA M
+
+📚 Department: Department II AIDS B
+✅ Present: 59
+❌ Not Present (2): KEERTHANA S, MOUNISHA P
+
+📚 Department: Department II AIDS C
+✅ Present: 57
+❌ Not Present (4): PAVITHRA S, PREETHI R, SACHIN K S, SAKTHI B
+
+📚 Department: Department II AIDS D
+✅ Present: 55
+❌ Not Present (8): SANTHIYA K, SHESANTH S, SOWMITHRA R, SOWMYA M, SWETHA V, THENUMATHI R, YAZHINI M, YOGESHWARAN R
+
+📚 Department: Department III AIDS A
+✅ Present: 52
+❌ Not Present (8): T.DURGA AMIRTHA, K.GOKULAKRISHNAN, M.GOKUL, S.GOPI PRAGAN, S.P HARINI, K.K HEMNATH, P.KARTHIK, V.KISHORE KUMAR
+
+📚 Department: Department III AIDS B
+✅ Present: 63
+❌ Not Present (2): P. MUKESH, K. THARANI KUMAR
+
+📚 Department: Department IV AIDS A
+✅ Present: 53
+❌ Not Present (20): AATHIKA M, BALAMURUGAN R, BHARATH S, DHARAN KISHORE R, DHIVITH M, GOKUL PRASATH V, GOWTHAM S, HARI HARAN M, JAKSON DIVAKER R, KARAN R, KAVYA E, MADHANRAJ S, MOHAMED FAHIM, NANDHI RAJA K, NAVEEN KUMAR V, NAVEEN V, NIKAM DHANRAJ TANJI K, NITHISH KUMAR B, POOVAMUTHAN S, SANTHOSH R
+
+📚 Department: Department IV AIDS B
+✅ Present: 20
+❌ Not Present (8): SHYAM L.K, SIVARAJ C, SUKESAN R, SURIYA V, THAVASIRAMU T, THILAG V, VIGNESH K, VIGNESH M
+
+📚 Department: Department I ECE A
+✅ Present: 59
+❌ Not Present (4): ALAGESHWARAN J, ANUJA S, BHARATHWAJ S, CHARUDESHNA S
+
+📚 Department: Department I ECE B
+✅ Present: 59
+❌ Not Present (4): DHARSINI V S, GOMATHI R, GOPALA KRISHNAN C, HARISH M S
+
+📚 Department: Department I ECE C
+✅ Present: 61
+❌ Not Present (2): JERSHITH J S, KOWSHIK M
+
+📚 Department: Department I ECE D
+✅ Present: 60
+❌ Not Present (3): NIVETHA T, PRADHOSH T, RETHANYA S
+
+📚 Department: Department I ECE E
+✅ Present: 62
+❌ Not Present (1): SANTHOSH KUMAR B
+
+📚 Department: Department I ECE F
+✅ Present: 62
+❌ Not Present (0): None
+
+📚 Department: Department II ECE A
+✅ Present: 63
+❌ Not Present (3): Ajitha S, Harinandh P, Kalaimani R
+
+📚 Department: Department II ECE B
+✅ Present: 63
+❌ Not Present (3): Hemadeepika E, Rathi Priya M, MANIKANNAN S
+
+📚 Department: Department II ECE C
+✅ Present: 57
+❌ Not Present (3): Dharsana V, Harish Gopi R, Nandhini M
+
+📚 Department: Department II ECE D
+✅ Present: 61
+❌ Not Present (5): Deepika S M, Kaviya S, Keerthana M, Nithin Asvant P, Sathish Kumar B M
+
+📚 Department: Department III ECE A
+✅ Present: 58
+❌ Not Present (5): Aridas S, Arulkumar P, Giri Sudhan T, Hareeswar S, Harinithin P S
+
+📚 Department: Department III ECE B
+✅ Present: 56
+❌ Not Present (4): Logabalaji G, Mathiarasu L, Mugesh K, Nachimuthu S
+
+📚 Department: Department III ECE C
+✅ Present: 61
+❌ Not Present (5): Narendran S, Naresh Kumar R, Narmatha K, Naveen P(7.5), Santhanaraj P
+
+📚 Department: Department III ECE D
+✅ Present: 53
+❌ Not Present (7): SHEBENDRAN S, SIBI RAGHUL A, SIVA P, SUBIKA M, SYED IBRAHIM A, THANGAPRIYA M, VIJAY V S
+
+📚 Department: Department IV ECE A
+✅ Present: 34
+❌ Not Present (29): Ajith S, Akash S, Aravindhan R, Arun V, AswinKumar T, Balaji G, Balaji M, Balaji N, Bhuvaneshwari M, Charan S T, Deepika M, Dewakar S J, Dharshini K, Dharunkumar R, Dhinagar M, Dhivakar P.R, Dhiyanesh P S, Dinesh M, Dinesh R, Dinesh S, Gayatri Tharani S, Gowsik s, Gowtham R, Gowtham R, Guganram S, Gunasekaran A, Hari S, Hari Shankar S, Harihara Sudhan
+
+📚 Department: Department IV ECE B
+✅ Present: 45
+❌ Not Present (14): Harshatha S, Kabilarajan S R, Kavinraj R K, Kishore Kumar S S, Krithikesvaran R, Manikandan S, Mugil R S, Nageswari U, Naveen P, Nazreen Fathima J, Parkavi K, Prasanth P, Ragunanthan K, ABDUL IMRAN S
+
+📚 Department: Department IV ECE C
+✅ Present: 39
+❌ Not Present (22): Rajasekar S, Rajesh Kumar M, Renugadevi R, Rishikumar V, Rohan S, Sabareesan S, Sabeena M, Sakthinarayanan S, Sanjay K, Sanjay L, Selva Easvaran M, Sharan Srivatsav K, Sivaram N, Srividhya P, Sudharshan M, Sugin Kumar S G, Veeramani N, Venkadesh N, Vidyaa Sri M, Vinoth kumar R, Vishnubharathi A, Viswa S
+
+📌 Auto-generated from biometric system.
+
+============================================================
+
+📊 Overall Attendance Summary - 01-04-2026
+✅ Total Present: 4389
+❌ Total Not Present: 695
+🚫 Offline Departments: None
+
+📌 Auto-generated from biometric system.

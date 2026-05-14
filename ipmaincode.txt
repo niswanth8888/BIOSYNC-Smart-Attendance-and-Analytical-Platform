@@ -1,0 +1,131 @@
+from http.server import BaseHTTPRequestHandler, HTTPServer
+from openpyxl import load_workbook
+import os
+import re
+import threading
+import time
+
+# ===============================
+# CONFIG
+# ===============================
+HOST = "172.16.20.192"
+PORT = 8081
+
+BASE_DIR = r"C:\AttendanceAutomation"
+EXCEL_FILE = os.path.join(BASE_DIR, "attendance_master.xlsx")
+SHEET_NAME = "III AIML"
+
+excel_lock = threading.Lock()
+
+print("🚀 BIOSYNC Attendance Engine Started")
+print("📡 Listening for biometric punches...")
+print("📘 Excel file:", EXCEL_FILE)
+print("-" * 70)
+
+
+# ===============================
+# CHECK VALID ATTENDANCE PACKET
+# ===============================
+def is_valid_punch(raw):
+    parts = raw.split()
+    if len(parts) < 3:
+        return False
+
+    if not parts[0].isdigit():
+        return False
+
+    if not re.match(r"\d{4}-\d{2}-\d{2}", parts[1]):
+        return False
+
+    if not re.match(r"\d{2}:\d{2}:\d{2}", parts[2]):
+        return False
+
+    return True
+
+
+# ===============================
+# UPDATE EXCEL SAFELY
+# ===============================
+def update_excel(emp_code, punch_time):
+    with excel_lock:
+
+        for attempt in range(5):
+            try:
+                wb = load_workbook(EXCEL_FILE)
+                ws = wb[SHEET_NAME]
+
+                for row in range(2, ws.max_row + 1):
+                    code_cell = ws.cell(row=row, column=2)
+
+                    if code_cell.value is None:
+                        continue
+
+                    if str(code_cell.value).strip() != emp_code:
+                        continue
+
+                    # Column E → Last Punch
+                    ws.cell(row=row, column=5).value = punch_time
+
+                    # Column H → Punch Records
+                    pr_cell = ws.cell(row=row, column=8)
+                    existing = pr_cell.value or ""
+                    ws.cell(row=row, column=8).value = f"{existing}{punch_time},"
+
+                    # Column J → Status
+                    ws.cell(row=row, column=10).value = "Present"
+
+                    wb.save(EXCEL_FILE)
+                    wb.close()
+
+                    print(f"✅ UPDATED → Emp {emp_code} | {punch_time}")
+                    return
+
+                wb.close()
+                print(f"⚠ Emp Code {emp_code} not found")
+                return
+
+            except PermissionError:
+                print("⏳ Excel busy, retrying...")
+                time.sleep(0.5)
+
+            except Exception as e:
+                print("❌ Excel update error:", e)
+                return
+
+        print("❌ Failed to update Excel after retries")
+
+
+# ===============================
+# HTTP HANDLER (ADMS)
+# ===============================
+class ADMSHandler(BaseHTTPRequestHandler):
+
+    def do_POST(self):
+        content_length = int(self.headers.get("Content-Length", 0))
+        raw_data = self.rfile.read(content_length).decode(errors="ignore").strip()
+
+        print("📥 RAW DATA")
+        print(raw_data)
+
+        if is_valid_punch(raw_data):
+            parts = raw_data.split()
+            emp_code = parts[0]
+            punch_time = parts[2]
+            update_excel(emp_code, punch_time)
+        else:
+            print("⚠ Ignored non-attendance packet")
+
+        print("-" * 70)
+
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"OK")
+
+    def log_message(self, format, *args):
+        return
+
+
+# ===============================
+# START SERVER
+# ===============================
+HTTPServer((HOST, PORT), ADMSHandler).serve_forever()

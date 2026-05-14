@@ -1,0 +1,796 @@
+[2025-10-04 23:01:22,915] [watcher] Watcher started. Control file: C:\AttendanceAutomation\control.txt
+[2025-10-04 23:01:23,404] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:23,480] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:23,491] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:26,992] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:27,120] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:27,131] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:30,617] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:30,797] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:30,805] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:34,290] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:34,520] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:34,530] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:38,010] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:38,126] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:38,135] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:41,736] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:41,808] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:41,819] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:45,407] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:45,502] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:45,514] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:49,085] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:49,220] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:49,229] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:52,852] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:52,929] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:52,939] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:01:56,515] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:01:56,609] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:01:56,617] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:00,206] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:00,273] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:00,283] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:03,889] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:03,993] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:04,003] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:07,588] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:07,677] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:07,687] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:11,290] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:11,384] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:11,393] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:14,985] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:15,054] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:15,065] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:18,654] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:18,735] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:18,745] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:22,338] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:22,422] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:22,432] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:26,041] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:26,161] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:26,172] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:29,789] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:29,875] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:29,885] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:33,526] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:33,610] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:33,618] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:37,228] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:37,274] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:37,283] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:40,868] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:40,942] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:40,953] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:44,576] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:44,664] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:44,673] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:48,274] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:48,343] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:48,353] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:51,914] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:52,016] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:52,025] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:55,612] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:55,729] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:55,740] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:02:59,305] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:02:59,391] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:02:59,401] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:02,964] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:03,055] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:03,064] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:06,639] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:06,819] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:06,827] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:10,402] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:10,516] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:10,525] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:14,093] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:14,188] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:14,197] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:17,770] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:17,874] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:17,882] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:21,432] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:21,579] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:21,588] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:25,137] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:25,236] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:25,244] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:28,821] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:28,888] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:28,897] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:32,488] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:32,569] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:32,580] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:36,162] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:36,256] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:36,267] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:39,865] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:39,973] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:39,984] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:43,594] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:43,680] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:43,686] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:47,296] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:47,392] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:47,401] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:51,015] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:51,126] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:51,137] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:54,774] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:54,891] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:54,901] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:03:58,482] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:03:58,576] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:03:58,586] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:04:02,244] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:04:02,345] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:04:02,356] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:04:05,941] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:04:06,018] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:04:06,030] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:04:09,657] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:04:09,772] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:04:09,784] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:04:13,272] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:04:13,382] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:04:13,393] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:06:02,651] [watcher] Watcher started. Control file: C:\AttendanceAutomation\control.txt
+[2025-10-04 23:06:22,444] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:06:22,650] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:06:22,659] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:06:44,379] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:06:44,522] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:06:44,530] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:07:05,772] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:07:05,926] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:07:05,939] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:07:22,990] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:07:23,116] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:07:23,126] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:07:44,736] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:07:44,811] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:07:44,819] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:08:03,915] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:08:04,035] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:08:04,043] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:08:23,953] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:08:24,016] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:08:24,024] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:08:44,284] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:08:44,331] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:08:44,340] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:09:54,207] [watcher] Watcher started. Control file: C:\AttendanceAutomation\control.txt
+[2025-10-04 23:09:54,625] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:09:54,690] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:09:54,698] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:09:58,122] [watcher] Watcher started. Control file: C:\AttendanceAutomation\control.txt
+[2025-10-04 23:09:58,191] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:09:58,259] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:09:58,266] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:01,697] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:01,788] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:01,794] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:04,319] [watcher] Watcher started. Control file: C:\AttendanceAutomation\control.txt
+[2025-10-04 23:10:05,233] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:05,312] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:05,317] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:08,728] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:08,827] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:08,832] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:10,484] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:10,601] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:10,608] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:12,229] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:12,320] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:12,327] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:15,734] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:15,810] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:15,814] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:15,870] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:15,952] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:15,959] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:19,245] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:19,318] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:19,325] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:22,756] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:22,831] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:22,836] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:24,310] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:24,427] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:24,433] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:26,242] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:26,339] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:26,344] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:29,384] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:29,578] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:29,583] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:29,813] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:30,037] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:30,043] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:33,474] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:33,629] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:33,636] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:37,057] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:37,231] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:37,236] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:38,957] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:39,396] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:39,403] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:40,707] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:41,427] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:41,436] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:44,938] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:44,987] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:44,994] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:45,721] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:45,863] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:45,872] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:48,419] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:48,453] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:48,496] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:48,501] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:48,506] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:48,513] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:52,068] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:52,169] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:52,176] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:55,657] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:55,788] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:55,795] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:10:59,280] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:10:59,427] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:10:59,434] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:02,914] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:03,194] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:03,202] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:05,801] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:05,977] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:05,984] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:06,652] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:06,869] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:06,877] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:08,767] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:08,960] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:08,970] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:10,356] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:10,493] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:10,501] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:13,988] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:14,115] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:14,123] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:17,595] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:17,676] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:17,684] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:21,174] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:21,279] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:21,288] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:23,768] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:23,882] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:23,890] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:24,422] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:24,519] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:24,526] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:24,765] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:24,885] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:24,892] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:28,407] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:28,514] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:28,521] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:28,625] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:28,743] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:28,751] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:29,238] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:29,379] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:29,389] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:32,082] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:32,188] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:32,196] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:34,907] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:35,024] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:35,031] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:35,639] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:35,718] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:35,725] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:35,768] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:35,860] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:35,868] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:39,190] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:39,434] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:39,441] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:42,907] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:43,036] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:43,044] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:46,536] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:46,622] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:46,630] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:50,070] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:50,265] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:50,274] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:52,841] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:52,917] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:52,925] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:53,583] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:53,720] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:53,737] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:53,743] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:53,783] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:53,791] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:11:57,250] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:11:57,343] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:11:57,350] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:00,774] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:00,868] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:00,876] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:04,338] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:04,408] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:04,415] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:07,851] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:07,969] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:07,977] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:10,837] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:10,958] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:10,967] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:11,432] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:11,513] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:11,520] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:11,705] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:11,799] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:11,807] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:14,979] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:15,071] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:15,077] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:18,546] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:18,647] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:18,654] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:21,655] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:24,507] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:24,819] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:24,826] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:25,329] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:12:25,426] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:12:25,435] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:12:27,827] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:28,436] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:29,656] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:35,828] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:36,438] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:37,657] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:43,829] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:44,439] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:45,658] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:51,830] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:52,439] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:53,659] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:12:59,831] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:00,441] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:01,660] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:07,832] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:08,442] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:09,660] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:15,833] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:16,443] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:17,661] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:23,834] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:24,444] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:25,662] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:31,836] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:32,445] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:33,663] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:39,837] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:40,446] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:41,663] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:47,838] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:48,447] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:49,664] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:55,839] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:56,448] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:13:57,665] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:03,841] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:04,449] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:05,665] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:11,843] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:12,451] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:13,666] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:19,844] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:20,452] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:21,667] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:27,844] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:28,453] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:29,668] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:35,846] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:36,454] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:37,668] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:43,847] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:44,455] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:45,669] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:51,848] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:52,456] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:53,670] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:14:59,849] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:00,457] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:01,670] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:07,849] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:08,458] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:09,671] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:15,851] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:16,459] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:17,672] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:23,852] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:24,460] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:25,673] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:31,853] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:32,461] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:33,673] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:39,854] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:40,462] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:41,674] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:47,855] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:48,463] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:49,675] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:55,856] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:56,463] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:15:57,676] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:03,857] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:04,465] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:05,677] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:11,858] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:12,466] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:13,678] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:19,859] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:20,467] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:21,678] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:27,860] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:28,468] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:29,679] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:35,861] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:36,469] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:37,680] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:43,862] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:44,470] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:45,681] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:51,863] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:52,471] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:53,682] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:16:59,864] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:00,472] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:01,682] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:07,865] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:08,473] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:09,683] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:15,866] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:16,474] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:17,684] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:23,867] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:24,475] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:25,685] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:31,869] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:32,476] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:33,686] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:39,870] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:40,478] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:41,686] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:47,871] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:48,479] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:49,687] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:55,873] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:56,480] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:17:57,688] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:03,873] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:04,481] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:05,693] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:11,874] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:12,483] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:13,694] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:19,876] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:20,484] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:21,695] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:27,876] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:28,486] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:29,696] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:35,878] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:36,488] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:37,697] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:43,879] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:18:46,162] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:18:46,261] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:18:46,267] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:18:49,743] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:18:49,835] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:18:49,842] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:18:53,305] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:18:53,405] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:18:53,412] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:18:56,868] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:18:56,960] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:18:56,969] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:18:59,486] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:18:59,556] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:18:59,563] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:00,471] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:00,566] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:00,573] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:04,035] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:04,106] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:04,112] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:06,652] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:06,758] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:06,768] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:07,564] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:07,677] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:07,684] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:11,142] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:11,218] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:11,227] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:14,691] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:14,780] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:14,787] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:17,141] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:17,301] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:17,310] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:18,230] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:18,410] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:18,419] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:21,903] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:22,000] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:22,007] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:24,285] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:24,444] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:24,452] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:25,492] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:25,553] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:25,561] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:28,518] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:28,584] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:28,592] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:29,076] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:29,153] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:29,161] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:29,165] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:29,232] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:29,241] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:32,162] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:32,242] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:38,219] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:19:38,291] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:19:38,300] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:19:40,163] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:40,244] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:41,301] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:48,164] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:48,245] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:49,302] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:56,165] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:56,248] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:19:57,303] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:04,166] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:04,249] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:05,304] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:12,166] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:12,251] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:13,306] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:20,167] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:20,252] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:21,306] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:28,168] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:28,253] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:29,308] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:36,169] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:36,256] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:37,309] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:44,169] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:44,257] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:45,310] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:52,170] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:52,258] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:20:53,311] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:00,171] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:00,259] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:01,312] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:08,172] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:08,260] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:09,313] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:16,172] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:16,262] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:17,315] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:24,173] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:24,263] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:25,316] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:32,174] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:32,264] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:33,317] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:40,175] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:40,265] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:41,318] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:48,176] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:48,266] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:49,319] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:56,177] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:56,267] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:21:57,320] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:04,178] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:04,269] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:05,322] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:12,179] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:12,270] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:13,323] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:20,179] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:20,271] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:21,324] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:28,180] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:28,272] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:29,325] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:36,180] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:36,273] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:37,326] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:44,181] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:44,275] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:45,327] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:52,182] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:52,276] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:22:53,328] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:00,183] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:00,277] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:01,329] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:08,184] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:08,278] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:09,330] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:16,185] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:16,279] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:17,332] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:24,186] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:24,280] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:25,333] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:32,187] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:32,281] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:33,334] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:40,188] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:40,283] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:41,335] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:48,189] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:48,284] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:49,336] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:56,191] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:56,285] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:23:57,337] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:04,191] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:04,286] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:05,338] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:12,192] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:12,288] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:13,340] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:20,193] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:20,289] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:21,340] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:28,193] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:28,290] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:29,341] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:36,194] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:36,291] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:37,343] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:44,195] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:44,292] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:45,344] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:52,196] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:52,293] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:24:53,345] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:00,196] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:00,294] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:01,346] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:08,197] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:08,295] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:09,348] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:16,198] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:16,296] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:17,349] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:24,199] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:24,297] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:25,350] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:32,201] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:32,299] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:33,351] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:40,201] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:40,300] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:41,352] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:48,202] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:48,301] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:49,354] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:56,203] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:56,303] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:25:57,355] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:04,204] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:04,304] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:05,356] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:12,206] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:12,304] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:13,358] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:20,207] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:20,307] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:21,359] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:28,208] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:28,308] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:29,361] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:36,210] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:36,309] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:37,363] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:44,211] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:44,310] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:45,365] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:52,212] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:52,312] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:26:53,366] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:00,213] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:00,313] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:01,367] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:08,214] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:08,314] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:09,370] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:16,215] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:16,315] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:17,371] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:24,217] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:24,317] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:25,372] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:32,217] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:32,318] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:33,373] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:40,218] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:40,320] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:41,374] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:48,219] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:48,321] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:49,378] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:56,220] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:56,322] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:27:57,379] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:04,221] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:04,323] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:05,380] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:12,222] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:12,325] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:13,381] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:20,223] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:20,326] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:21,382] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:28,224] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:28,327] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:29,383] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:36,224] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:36,328] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:37,384] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:28:44,707] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:28:44,815] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:28:44,820] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:28:59,915] [watcher] Supervisor not running. Waiting for network (will try 30 times)...
+[2025-10-04 23:29:00,018] [watcher] Network available. Starting supervisor.
+[2025-10-04 23:29:00,027] [watcher] Launched supervisor via D:\pythonw.exe
+[2025-10-04 23:32:21,455] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:23,092] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:23,851] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:29,456] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:31,093] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:31,852] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:37,458] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:39,094] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:39,852] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:45,459] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:47,095] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:47,853] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:53,460] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:55,096] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:32:55,854] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:01,461] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:03,097] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:03,855] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:09,462] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:11,098] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:11,856] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:17,463] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:19,099] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:19,857] [watcher] Control=PAUSE. Not starting supervisor.
+[2025-10-04 23:33:27,858] [watcher] Control=PAUSE. Not starting supervisor.

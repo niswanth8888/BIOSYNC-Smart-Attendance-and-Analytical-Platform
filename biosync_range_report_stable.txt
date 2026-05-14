@@ -1,0 +1,338 @@
+import os
+from datetime import datetime
+from openpyxl import load_workbook, Workbook
+from openpyxl.styles import Font, Alignment, Border, Side
+from openpyxl.drawing.image import Image
+
+# ==================================================
+# CONFIG
+# ==================================================
+
+BACKUP_FOLDER = r"C:\AttendanceAutomation\BackupExcel"
+OUTPUT_FOLDER = r"C:\AttendanceAutomation\RangeReports"
+LOGO_PATH = r"C:\AttendanceAutomation\logo.jpg"
+
+CLASS_NAME = "III AIML"
+EMP_CODE = None   # Example: "23148033" | None = Class Report
+
+START_DATE = "2026-03-01"
+END_DATE = "2026-03-10"
+
+# ==================================================
+# STYLES
+# ==================================================
+
+thin = Side(style="thin")
+
+table_border = Border(
+    left=thin,
+    right=thin,
+    top=thin,
+    bottom=thin
+)
+
+def style_table(ws,start_row,end_row,end_col):
+
+    for r in range(start_row,end_row+1):
+        for c in range(1,end_col+1):
+
+            cell = ws.cell(r,c)
+            cell.border = table_border
+            cell.alignment = Alignment(horizontal="center")
+
+            if r == start_row:
+                cell.font = Font(bold=True)
+
+# ==================================================
+# AUTO COLUMN WIDTH
+# ==================================================
+
+def auto_adjust_columns(ws):
+
+    for column in ws.columns:
+
+        max_length = 0
+        column_letter = column[0].column_letter
+
+        for cell in column:
+            try:
+                if cell.value:
+                    max_length = max(max_length,len(str(cell.value)))
+            except:
+                pass
+
+        adjusted_width = max_length + 4
+        ws.column_dimensions[column_letter].width = adjusted_width
+
+# ==================================================
+# DATE RANGE
+# ==================================================
+
+start_date = datetime.strptime(START_DATE,"%Y-%m-%d").date()
+end_date = datetime.strptime(END_DATE,"%Y-%m-%d").date()
+
+# ==================================================
+# COLLECT FILES
+# ==================================================
+
+excel_files = []
+
+for month in os.listdir(BACKUP_FOLDER):
+
+    month_path = os.path.join(BACKUP_FOLDER,month)
+
+    if not os.path.isdir(month_path):
+        continue
+
+    for file in os.listdir(month_path):
+
+        if not file.endswith(".xlsx"):
+            continue
+
+        try:
+            file_date = datetime.strptime(file.replace(".xlsx",""),"%d-%m-%Y").date()
+        except:
+            continue
+
+        if file_date.weekday() == 6:  # Skip Sunday
+            continue
+
+        if start_date <= file_date <= end_date:
+            excel_files.append((file_date,os.path.join(month_path,file)))
+
+excel_files.sort()
+
+# ==================================================
+# OUTPUT FILE
+# ==================================================
+
+wb_out = Workbook()
+ws = wb_out.active
+row_ptr = 1
+student_stats = {}
+
+# ==================================================
+# INDIVIDUAL STUDENT REPORT
+# ==================================================
+
+if EMP_CODE:
+
+    ws["A1"] = "EMP CODE"
+    ws["B1"] = EMP_CODE
+
+    ws["A2"] = "Class"
+    ws["B2"] = CLASS_NAME
+
+    row_ptr = 4
+
+    table_start = row_ptr
+
+    ws.append(["Date","Name","Last Punch","Status"])
+
+    present_days = 0
+    total_days = 0
+    student_name = None
+
+    for file_date,path in excel_files:
+
+        wb = load_workbook(path,data_only=True)
+
+        if CLASS_NAME not in wb.sheetnames:
+            wb.close()
+            continue
+
+        sheet = wb[CLASS_NAME]
+        total_days += 1
+
+        found = False
+
+        for r in range(2,sheet.max_row+1):
+
+            emp = sheet.cell(r,2).value
+
+            if str(emp) == str(EMP_CODE):
+
+                student_name = sheet.cell(r,4).value
+                punch = sheet.cell(r,5).value
+                status = sheet.cell(r,10).value
+
+                ws.append([
+                    file_date.strftime("%d-%m-%Y"),
+                    student_name,
+                    punch if punch else "-",
+                    status if status else "Absent"
+                ])
+
+                if status == "Present":
+                    present_days += 1
+
+                found = True
+                break
+
+        if not found:
+            ws.append([
+                file_date.strftime("%d-%m-%Y"),
+                student_name,
+                "-",
+                "Absent"
+            ])
+
+        wb.close()
+
+    table_end = ws.max_row
+    style_table(ws,table_start,table_end,4)
+
+    ws.append([])
+    ws.append(["SUMMARY"])
+
+    absent_days = total_days - present_days
+    percent = round((present_days/total_days)*100,2) if total_days else 0
+
+    ws.append(["Working Days",total_days])
+    ws.append(["Present Days",present_days])
+    ws.append(["Absent Days",absent_days])
+    ws.append(["Attendance %",percent])
+
+# ==================================================
+# CLASS REPORT
+# ==================================================
+
+else:
+
+    for file_date,path in excel_files:
+
+        wb = load_workbook(path,data_only=True)
+
+        if CLASS_NAME not in wb.sheetnames:
+            wb.close()
+            continue
+
+        sheet = wb[CLASS_NAME]
+
+        ws.cell(row_ptr,1).value = file_date.strftime("%d-%m-%Y")
+        ws.cell(row_ptr,1).font = Font(bold=True,size=12)
+
+        row_ptr += 1
+
+        table_start = row_ptr
+
+        ws.append(["Emp Code","Name","Last Punch","Status"])
+
+        for r in range(2,sheet.max_row+1):
+
+            emp = sheet.cell(r,2).value
+            name = sheet.cell(r,4).value
+            punch = sheet.cell(r,5).value
+            status = sheet.cell(r,10).value
+
+            if emp is None:
+                continue
+
+            ws.append([
+                emp,
+                name,
+                punch if punch else "-",
+                status if status else "Absent"
+            ])
+
+            if name not in student_stats:
+                student_stats[name] = {"present":0,"total":0}
+
+            student_stats[name]["total"] += 1
+
+            if status == "Present":
+                student_stats[name]["present"] += 1
+
+        table_end = ws.max_row
+        style_table(ws,table_start,table_end,4)
+
+        row_ptr = ws.max_row + 3
+        wb.close()
+
+    # ==================================================
+    # CLASS SUMMARY
+    # ==================================================
+
+    ws.cell(row_ptr,1).value = "CLASS SUMMARY"
+    ws.cell(row_ptr,1).font = Font(bold=True,size=12)
+
+    row_ptr += 2
+
+    table_start = row_ptr
+
+    ws.append([
+        "Student Name",
+        "Attendance %",
+        "Total Present",
+        "Total Absent"
+    ])
+
+    for name,data in student_stats.items():
+
+        present = data["present"]
+        total = data["total"]
+
+        absent = total - present
+
+        percent = round((present/total)*100,2) if total else 0
+
+        ws.append([
+            name,
+            f"{percent}%",
+            present,
+            absent
+        ])
+
+    table_end = ws.max_row
+    style_table(ws,table_start,table_end,4)
+
+# ==================================================
+# FOOTER
+# ==================================================
+
+footer_row = ws.max_row + 3
+
+try:
+    img = Image(LOGO_PATH)
+    img.width = 120
+    img.height = 60
+    ws.add_image(img,f"A{footer_row}")
+except:
+    pass
+
+title_row = footer_row + 4
+
+ws.merge_cells(start_row=title_row,start_column=1,end_row=title_row,end_column=4)
+
+title = ws.cell(title_row,1)
+title.value = "BIOSYNC Attendance Engine"
+title.font = Font(bold=True,size=12)
+title.alignment = Alignment(horizontal="center")
+
+ws.cell(title_row+1,1).value = f"Class : {CLASS_NAME}"
+ws.cell(title_row+2,1).value = f"Range : {START_DATE} to {END_DATE}"
+ws.cell(title_row+3,1).value = f"Generated : {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+
+# ==================================================
+# FINAL CLEANUP
+# ==================================================
+
+auto_adjust_columns(ws)
+
+# ==================================================
+# SAVE
+# ==================================================
+
+os.makedirs(OUTPUT_FOLDER,exist_ok=True)
+
+if EMP_CODE:
+    filename = f"{EMP_CODE}_{CLASS_NAME}_{START_DATE}_to_{END_DATE}.xlsx"
+else:
+    filename = f"{CLASS_NAME}_{START_DATE}_to_{END_DATE}.xlsx"
+
+output_path = os.path.join(OUTPUT_FOLDER,filename)
+
+wb_out.save(output_path)
+
+print("✅ BIOSYNC RANGE REPORT GENERATED")
+print(output_path)

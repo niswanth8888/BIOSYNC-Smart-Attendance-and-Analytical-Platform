@@ -1,0 +1,20 @@
+[03-10-2025 11.02.09.39] start_bot_startup.bat invoked (Startup folder) 
+[03-10-2025 11.02.09.39] initial delay 10 seconds... 
+[03-10-2025 11.02.48.23] network wait timed out after 30 attempts. Not launching. 
+[03-10-2025 11.06.45.49] start_bot_startup.bat invoked (Startup folder) 
+[03-10-2025 11.06.45.49] initial delay 10 seconds... 
+[03-10-2025 11.06.55.12] network check attempt 1/60 
+[03-10-2025 11.07.02.12] TCP check to web.whatsapp.com:443 succeeded. 
+[03-10-2025 11.07.07.14] launching: "D:\python.exe -u \"C:\AttendanceAutomation\whatsapp_bot.py\"" 
+[03-10-2025 11.09.09.66] start_bot_startup.bat invoked (Startup folder) 
+[03-10-2025 11.09.09.66] initial delay 10 seconds... 
+[03-10-2025 11.09.19.13] network check attempt 1/60 
+[03-10-2025 11.09.27.69] TCP check to web.whatsapp.com:443 succeeded. 
+[03-10-2025 11.09.32.13] launching bot via python 
+[03-10-2025 11.09.32.14] start_bot_startup.bat finished. 
+[03-10-2025 11.11.40.25] start_bot_startup.bat invoked (Startup folder) 
+[03-10-2025 11.11.40.25] initial delay 10 seconds... 
+[03-10-2025 11.11.50.18] network check attempt 1/60 
+[03-10-2025 11.11.54.09] TCP check to web.whatsapp.com:443 succeeded. 
+[03-10-2025 11.11.59.19] launching bot via python 
+[03-10-2025 11.11.59.20] start_bot_startup.bat finished. 

@@ -499,7 +499,7 @@ Planned improvements include:
 
 This project is licensed under the Apache License 2.0.
 
-Copyright 2026 Niswanth
+Copyright 2026 BioSync
 
 See the `LICENSE` file for more details.
 
@@ -510,7 +510,7 @@ See the `LICENSE` file for more details.
 Developed by **Niswanth & Nithishsarwin**
 
 Project Name: **BIOSYNC**  
-Repository Name: **BIOSYNC-Attendance-Automation**
+Repository Name: **BioSync**
 
 ---
 

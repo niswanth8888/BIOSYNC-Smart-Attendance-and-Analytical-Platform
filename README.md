@@ -510,7 +510,6 @@ See the `LICENSE` file for more details.
 Developed by **Niswanth & Nithishsarwin**
 
 Project Name: **BIOSYNC**  
-Repository Name: **BioSync**
 
 ---
 

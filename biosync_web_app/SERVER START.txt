@@ -1,0 +1,74 @@
+pip install fastapi uvicorn python-multipart
+
+
+uvicorn main:app --reload --port 8000
+http://127.0.0.1:8000/docs
+
+https://nonvitally-unfrosty-sindy.ngrok-free.dev
+
+
+CMD
+cd C:\biosync_web_app
+uvicorn main:app --host 0.0.0.0 --port 8000
+
+NGROK CMD
+cd C:\Users\Lap\Downloads\ngrok-v3-stable-windows-amd64
+ngrok http 8000
+
+biosyncbot@gmail.com
+ngrok config add-authtoken 3BNrOsSDMUFQjk1Rkj148qACd8R_5b889ZjvFkjWb11ERAknZ
+https://nonvitally-unfrosty-sindy.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+biosync.service1@gmail.com
+ngrok config add-authtoken 3BiTzauXp8Zxv9oXccLWyH1Q1e4_4SD8kCDjagLAazbQrvQvz
+https://unrotatory-subdentated-summer.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+niswanth2005@gmail.com
+ngrok config add-authtoken 3BiY2WidiWIZXOZIed5kDcJDbuW_zmRY9QTjPPVE76JGgAuE
+https://nonregenerate-esmeralda-xenogenic.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+niswanth8888@gmail.com
+ngrok config add-authtoken 2uq7zUE38pGdD3RFpzN0yARU2bp_5YMiFdSXMDR9ktBBGdDx6
+https://24e2-182-72-89-158.ngrok-free.app
+ngrok config check
+ngrok http 8000
+
+nithishsarwin.m@gmail.com
+ngrok config add-authtoken 3BkREDOggilsCvEpBwROgVtBGhu_2KxEcH5ChXU49z6XRGb6s
+https://unaspiring-cecil-edacious.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+mntihishsarwin@gmail.com
+ngrok config add-authtoken 3BkRd0sDIHKOPU3t5aUTD6eZJQr_4GPcRPpRv3zr1y2Xkz7U6
+https://hannelore-unabsorbable-vibratingly.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+nithishsarwin25@gmail.com
+ngrok config add-authtoken 3BkS69yaHNRZb5A607i7muyGIFX_6yEb89DDpkzpKxPsRfKY3
+https://unmellow-federico-properly.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+nithishphotos25@gmail.com
+ngrok config add-authtoken 3BkSd0FgWUoiX0GOO6D6mPDLMzs_4pbCfNUaMRffm1aV7j2qp
+https://tubulously-undefinite-susy.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+niswanth008@gmail.com
+ngrok config add-authtoken 3BkT6LngLv4hPJdcneytopB7aBF_3PQ9rYy3E2mEcPQk1jGwL
+https://unradiative-kathern-isotactic.ngrok-free.dev
+ngrok config check
+ngrok http 8000
+
+
+
+

@@ -1,0 +1,17 @@
+
+
+pip install fastapi uvicorn python-multipart
+
+
+uvicorn main:app --reload --port 8000
+http://127.0.0.1:8000/docs
+
+
+
+
+
+cd C:\biosync_web_app
+uvicorn main:app --host 0.0.0.0 --port 8000
+
+cd C:\Users\Lap\Downloads\ngrok-v3-stable-windows-amd64
+ngrok http 8000

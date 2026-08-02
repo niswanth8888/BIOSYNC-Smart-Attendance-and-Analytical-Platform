@@ -1,0 +1,21 @@
+{
+    "successful_devices": [
+        "IV CSE C",
+        "I CSE A",
+        "II CSE A",
+        "III CSE A",
+        "I CSE B",
+        "II CSE B",
+        "II CSE C"
+    ],
+    "offline_devices": [
+        "III CSE C",
+        "IV CSE B",
+        "I CSE C",
+        "IV CSE A",
+        "III CSE B"
+    ],
+    "no_log_devices": [],
+    "error_devices": [],
+    "last_run": "2026-04-01 14:38:27"
+}

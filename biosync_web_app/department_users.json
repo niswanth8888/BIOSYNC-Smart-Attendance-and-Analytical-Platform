@@ -1,0 +1,80 @@
+[
+  {
+    "username": "CSE",
+    "password": "1234",
+    "department": "CSE",
+    "display_name": "CSE Department"
+  },
+  {
+    "username": "CSBS",
+    "password": "1234",
+    "department": "CSBS",
+    "display_name": "CSBS Department"
+  },
+  {
+    "username": "AIML",
+    "password": "1234",
+    "department": "AIML",
+    "display_name": "AIML Department"
+  },
+  {
+    "username": "IT",
+    "password": "1234",
+    "department": "IT",
+    "display_name": "IT Department"
+  },
+  {
+    "username": "MECH",
+    "password": "1234",
+    "department": "MECH",
+    "display_name": "MECH Department"
+  },
+  {
+    "username": "CIVIL",
+    "password": "1234",
+    "department": "CIVIL",
+    "display_name": "CIVIL Department"
+  },
+  {
+    "username": "CHEMICAL",
+    "password": "1234",
+    "department": "CHEMICAL",
+    "display_name": "CHEMICAL Department"
+  },
+  {
+    "username": "EEE",
+    "password": "1234",
+    "department": "EEE",
+    "display_name": "EEE Department"
+  },
+  {
+    "username": "CCE",
+    "password": "1234",
+    "department": "CCE",
+    "display_name": "CCE Department"
+  },
+  {
+    "username": "BIOTECH",
+    "password": "1234",
+    "department": "BIOTECH",
+    "display_name": "BIOTECH Department"
+  },
+  {
+    "username": "BME",
+    "password": "1234",
+    "department": "BME",
+    "display_name": "BME Department"
+  },
+  {
+    "username": "AIDS",
+    "password": "1234",
+    "department": "AIDS",
+    "display_name": "AIDS Department"
+  },
+  {
+    "username": "ECE",
+    "password": "1234",
+    "department": "ECE",
+    "display_name": "ECE Department"
+  }
+]

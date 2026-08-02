@@ -1,0 +1,18 @@
+{
+    "TARGET_DEVICES": [
+        "I CSE A",
+        "I CSE B",
+        "I CSE C",
+        "II CSE A",
+        "II CSE B",
+        "II CSE C",
+        "III CSE A",
+        "III CSE B",
+        "III CSE C",
+        "IV CSE A",
+        "IV CSE B",
+        "IV CSE C"
+    ],
+    "AUTO_CLEAR_LOGS": false,
+    "FETCH_DATE": ""
+}
